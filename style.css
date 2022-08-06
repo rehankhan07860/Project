@@ -1,0 +1,153 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.my {
+    margin-top: -5px;
+    background: linear-gradient(135.46deg,#d11450,#df293a);
+    width: 1525px;
+    height: 180px;
+}
+#id {
+    font-size: 40px;
+    text-align: center;
+    padding: 32px;
+    color: white;
+}
+.form {
+    margin-left: -731px;
+    text-align: center;
+}
+#search {
+    padding-top: 5px;
+    width: 429px;
+    height: 43px;
+    font-size: 20px;
+    margin-top: -83px;
+    margin-bottom: 20px;
+    margin-left: 168px;
+}
+#date {
+    font-size: 20px;
+    padding-right: 30px;
+    width: -21px;
+    height: 50px;
+    padding-left: 30px;
+    margin-bottom: 30px;
+}
+#date1 {
+    margin-right: -768px;
+    font-size: 20px;
+    padding-right: 30px;
+    height: 50px;
+    padding-left: 30px;
+    margin-bottom: 30px;
+}
+.button{
+    margin-right: -200px;
+}
+#image {
+    margin-top: 30px;
+    margin-left: 10px;
+    width: 1500px;
+}
+#adhar {
+    margin-top: 50px;
+}
+.border{
+    box-sizing: border-box;
+    
+}
+#oyo {
+    margin-top: -25px;
+    margin-left: 59px;
+    fill: #ee2e24;
+    width: 112px;
+    height: 115px;
+}
+.promoCard__text {
+    color: #000;
+    margin-bottom: 2px;
+}
+.is-fontBold {
+    font-weight: 600;
+}
+#rehan {
+    margin-right: 2px;
+}
+
+#rehan {
+    padding-bottom: 14px;
+    height: 34px;
+    padding-top: 1p;
+    padding-bottom: -5px;
+    color: white;
+    font-size: 40px;
+    margin-right: -625px;
+    width: 155px;
+    text-align: center;
+    background-color: green;
+    margin-left: 765px;
+}
+.first {
+    background: url(simple.jpg);
+    width: 862px;
+    height: 620px;
+    margin-top: 80px;
+    height: 425px;
+}
+.world {
+    text-align: center;
+    font-size: 30px;
+    margin-left: 800px;
+    margin-top: -398px;
+}
+#more {
+    margin-right: 220px;
+    margin-top: 18px;
+    font-size: 20px;
+}
+#count {
+    font-size: 40px;
+    text-align: left;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+#country {
+    font-size: 20px;
+    text-align: left;
+    margin-left: 35px;
+    margin-top: -40px;
+}
+#count1 {
+    margin-left: -200px;
+    margin-top: -60px;
+    font-size: 40px;
+}
+#home {
+    margin-left: -200px;
+    font-size: 20px;
+}
+.dot {
+    height: 1px;
+}
+
+.head p {
+text-align: center;
+}
+
+#a {
+    
+}
+
+.action {
+display: flex;
+}
+
+#name {
+    
+    border-color: white;
+    text-align: right;
+    margin-top: -10px;
+    padding: 10px;
+}
